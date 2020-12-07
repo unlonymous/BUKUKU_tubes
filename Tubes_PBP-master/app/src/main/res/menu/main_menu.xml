@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_daftar"
+            android:icon="@drawable/ic_baseline_book_24"
+            android:title="Daftar Buku" />
+
+        <item
+            android:id="@+id/nav_pinjam"
+            android:icon="@drawable/ic_baseline_library_add_24"
+            android:title="Pinjam Buku" />
+
+        <item
+            android:id="@+id/nav_riwayat"
+            android:icon="@drawable/ic_baseline_library_books_24"
+            android:title="Riwayat" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_map"
+                    android:icon="@drawable/ic_round_location_on_24"
+                    android:title="Find Us" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_profil"
+                    android:icon="@drawable/ic_baseline_person_24"
+                    android:title="profil" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_baseline_exit_to_app_24"
+                    android:title="Log Out" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

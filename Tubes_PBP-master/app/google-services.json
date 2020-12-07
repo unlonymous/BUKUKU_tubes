@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109236130005",
+    "firebase_url": "https://bukuku-ddfbc.firebaseio.com",
+    "project_id": "bukuku-ddfbc",
+    "storage_bucket": "bukuku-ddfbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109236130005:android:9a3a3124b1e9697625125c",
+        "android_client_info": {
+          "package_name": "bukuku.tubes_paw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109236130005-ga0ubmcka7v3o9g8karqdq4eoni9mt89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcrerbqx3DAd6mJkabapyCCRRbSbfYBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109236130005-ga0ubmcka7v3o9g8karqdq4eoni9mt89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

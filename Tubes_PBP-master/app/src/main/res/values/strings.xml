@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bukuku</string>
+    <string name="home">Home</string>
+    <string name="daftar">Daftar Buku</string>
+    <string name="pinjam">Pinjam Buku</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="location">Location</string>
+    <string name="profil">Profil</string>
+
+    <string name="email">Email</string>
+    <string name="have_account">Already Have an Account?</string>
+    <string name="person_logo">Person Logo</string>
+    <string name="password">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="register_your_account">Register Your Account</string>
+    <string name="name">Full Name</string>
+    <string name="user_name">User Name</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navi">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGVzaWhuZHluaTEyIiwiYSI6ImNrZmx5OHV1eDFhZGQyeW8wdzlmN2h4bnQifQ.rOfZtu2sM0itD6XfWirVZQ</string>
+
+</resources>
